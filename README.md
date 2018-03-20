@@ -1,4 +1,4 @@
-# anomaly-detection-101
+# Anomaly Detection 101
 Super simple example of anomaly detection process using sklearn.
 
 The algorithm library documentation:
